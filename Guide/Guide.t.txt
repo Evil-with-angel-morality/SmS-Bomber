@@ -1,0 +1,5 @@
+To use this SmS Bomber, just run it in Terminal or Python 3.
+
+
+
+This tool only works for Iranian numbers
