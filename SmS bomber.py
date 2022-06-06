@@ -1,5 +1,9 @@
-import requests,time,os
-#import pyfiglet
+#Evil-with-angel-morality
+
+
+
+#importing
+import requests,time,os,time
 
 
 
@@ -23,8 +27,6 @@ class color:
 
 
 
-#qwertyuiop = pyfiglet.figlet_format ('updated ?', font = 'banner3-D')
-#print(qwertyuiop)
 
 
 
@@ -32,15 +34,19 @@ class color:
 #upgrad
 uipl = input(color.red+'    Do you want the required libraries to be installed or    updated automatically?     n/y?      ')
 
-if uipl == ('y'):
-    print(color.sabz+'      ok')
-    time.sleep(2)
-    print(color.sabz+'      loading')
-    print(color.sabz+'      loading.')
+if uipl == ('y') or uipl == ('Y'):
+    print("")
+    print(color.red+" [       ] 0%")
     time.sleep(1)
-    print(color.sabz+'      loading..')
-    time.sleep(2)
-    print(color.sabz+'      loading...')
+    print(color.abi_kamrang+" [=======   ] 20%")
+    time.sleep(0.6)
+    print(color.abi_kamrang+" [============ ] 40%")
+    time.sleep(0.5)
+    print(color.abi_kamrang+" [================ ] 60%")
+    time.sleep(0.8)
+    print(color.abi_kamrang+" [==================== ] 80%")
+    time.sleep(0.6)
+    print(color.abi_kamrang+" [========================= ] 100%")
     os.system('clear')
     os.system('pip install os')
     os.system('pip install requests')
@@ -52,19 +58,23 @@ if uipl == ('y'):
     print(color.sabz+'.')
     os.system('pip')
     os.system('cls')
-    os.system('clear')
+    os.system('clear' or 'cls')
 
-if uipl == ('n'):
-    print(color.sabz+'      ok')
+if uipl == ('n') or uipl == ('N'):
     time.sleep(2)
-    print(color.sabz+'      loading')
-    print(color.sabz+'      loading.')
-    print(color.sabz+'      loading..')
+    print("")
+    print(color.red+" [       ] 0%")
     time.sleep(1)
-    print(color.sabz+'      loading...')
-    time.sleep(1)
-    print(color.sabz+'      starting...')
-    os.system('clear')
+    print(color.abi_kamrang+" [=======   ] 20%")
+    time.sleep(0.6)
+    print(color.abi_kamrang+" [============ ] 40%")
+    time.sleep(0.5)
+    print(color.abi_kamrang+" [================ ] 60%")
+    time.sleep(0.8)
+    print(color.abi_kamrang+" [==================== ] 80%")
+    time.sleep(0.6)
+    print(color.abi_kamrang+" [========================= ] 100%")
+    os.system('clear' or 'cls')
     print('')
     print('')
     print('')
@@ -95,9 +105,20 @@ print(color.sefid+'-----------------------------------------------------------')
 print('''        ''')
 time.sleep(2)
 print('''     ''')
-print(color.abi_kamrang+'''\tStarting SmS bomber ''')
+#bner
+print("############################################")
+print("#    /                             /       #")
+print("#   /                             /        #")
+print("#     /       /       /              /     #")
+print("#    /       /  /   /  /            /      #")
+print("#  /        /   /  /    /          /       #")
+print("#   /      /     /       /           /     #")
+print("#  /      /               /         /      #")
+print("############################################")
+time.sleep(2.5)
 print('''     ''')
 print('''    ''')
+#List
 print(color.red+'    [   1   ]       Sb   snap')
 print(color.red+'    [   2   ]       Sb   Divar')
 print(color.red+'    [   3   ]       Sb   Tapsi')
@@ -106,9 +127,9 @@ print(color.sefid+'-----------------------------------------------------------')
 print('''     ''')
 
 
-
 T = input(color.red+'      Enter number>>>  ')
     
+
 
 
 #SmS bomber snap
@@ -143,7 +164,7 @@ if T == ('3'):
 
 
 
-
+#SmS Bomber ALL
 if T == ('4'):
     target = input(color.sabz+"""         Enter phone »»»      """)
     while True:
