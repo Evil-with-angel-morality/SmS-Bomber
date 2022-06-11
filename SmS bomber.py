@@ -77,8 +77,6 @@ if uipl == ('n') or uipl == ('N'):
     os.system('clear' or 'cls')
     print('')
     print('')
-    print('')
-    print('')
 
 
 
@@ -93,28 +91,18 @@ if uipl == ('n') or uipl == ('N'):
  
 
 #Welcoming
-print('''    ''')
-print('''    ''')
-print('''    ''')
-print('''    ''')
-print('''     ''')
-#k = pyfiglet.figlet_format ('SmS bomber', font = 'standard')
-#print(k)
-print(color.sabz+'\tW E L C O M   T O   S m S   B O M B E R ')
-print(color.sefid+'-----------------------------------------------------------') 
-print('''        ''')
 time.sleep(2)
 print('''     ''')
 #bner
-print("############################################")
-print("#    /                             /       #")
-print("#   /                             /        #")
-print("#     /       /       /              /     #")
-print("#    /       /  /   /  /            /      #")
-print("#  /        /   /  /    /          /       #")
-print("#   /      /     /       /           /     #")
-print("#  /      /               /         /      #")
-print("############################################")
+print("#######################################################################")
+print("#      @#!                %$            *&               @#!          #")
+print("#    #$                  *^ $#         %$ $#           #$             #")
+print("#     &^                $#   %$       !@   ^%           $#            #")   
+print("#      &%             (#$     *&     $!     &^           &^           #")
+print("#       !@           (*)       *&   #$       %$           !@          #")
+print("#     *&            ^&          !@ %$        )#         &^            #")
+print("#  !@#             $%            #$           @#      &@!             #")
+print("#######################################################################")
 time.sleep(2.5)
 print('''     ''')
 print('''    ''')
