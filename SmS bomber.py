@@ -28,7 +28,7 @@ class color:
 
 
 
-
+os.system('color C')
 
 
 #upgrad
@@ -55,10 +55,7 @@ if uipl == ('y') or uipl == ('Y'):
     os.system('pip install colorama')
     os.system('python -m pip install pip')
     os.system('pip install pip')
-    print(color.sabz+'.')
-    os.system('pip')
-    os.system('cls')
-    os.system('clear' or 'cls')
+    os.system('cls' or 'clear')
 
 if uipl == ('n') or uipl == ('N'):
     time.sleep(2)
@@ -91,6 +88,7 @@ if uipl == ('n') or uipl == ('N'):
  
 
 #Welcoming
+os.system('color A')
 time.sleep(2)
 print('''     ''')
 #bner
